@@ -35,8 +35,8 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [Segmanta](https://segmanta.com)
 * [Tipalti](https://tipalti.com)
 * [WiseStamp](https://www.wisestamp.com)
-
-## Websites
+* [Pelephone](https://www.pelephone.co.il)
+# Websites
 * [7Kanal](https://www.7kanal.co.il)
 * [Biz Make Biz](https://www.bizmakebiz.co.il/)
 * [Farm 2 You](https://farm2you.co.il)
