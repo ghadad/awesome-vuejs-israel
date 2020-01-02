@@ -39,6 +39,7 @@ A curated list of Israeli companies & organisations who chose the lovely Vue JS
 * [WiseStamp](https://www.wisestamp.com)
 * [Run.ai](https://run.ai)
 * [Greenpress](https://github.com/greenpress)
+* [Pelephone](https://www.pelephone.co.il)
 
 ## Websites
 * [10best](https://10-best.co.il/)
